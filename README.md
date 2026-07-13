@@ -22,7 +22,7 @@ Reference implementation: [MartaBoscaglia/DynamicAttractorNetworkModel_2023](htt
 |---|---|
 | `dynamic_attractor_network_colab.ipynb` | Main notebook — all code and experiments (Weeks 1–6). |
 | `requirements.txt` | pip dependencies. |
-| `technical_note.*` | Method + results + limitations write-up. |
+| `technical_note.` | Method + results + limitations write-up. |
 
 ---
 
