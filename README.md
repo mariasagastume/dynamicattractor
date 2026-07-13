@@ -76,9 +76,6 @@ Every figure comes straight from a notebook cell — run the section and the plo
 | **Week 6 — functional bridge** | `factor_SW` × co-presentation sweeps + scalar overlap metric ("semantic bridge") | Suppl. Fig. S5 |
 | **Week 6 — staggered onsets** | Bridge tuning via a small stagger delay between assembly onsets | Suppl. Fig. S5 |
 
-> Paper-figure references are the project's working mappings — worth a quick double-check against
-> the paper before final submission.
-
 ---
 
 ## Main findings (short version)
