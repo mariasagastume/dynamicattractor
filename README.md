@@ -104,6 +104,7 @@ Full method, results, and limitations are in the technical note.
 ## Documentation of LLM Usage
 
 We used Claude (Model Opus 4.8), Gemini (Model **XX**  ) and DeepSeek (Model **XX**  ) to aid us in producing the code, assist in the roadmap for the project and how to organize the presentation.
+
 ---
 
 ## Citation
