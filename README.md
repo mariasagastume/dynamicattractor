@@ -40,7 +40,7 @@ pip install -r requirements.txt
 pip install jupyter                # if not already installed
 jupyter notebook dynamic_attractor_network_colab.ipynb
 ```
-(Or with conda: `conda env create -f environment.yaml && conda activate dynamic-attractor`.)
+(Or with conda: `conda env create -f environment.yaml && conda activate dynamic-attractor`.).
 
 **Run the cells top to bottom.** The **Setup & base model** block *must* run first — it defines the
 parameters, the core simulation loop, and the helper functions every later milestone reuses.
